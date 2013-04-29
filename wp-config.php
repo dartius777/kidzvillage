@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'premweb_kidz_blog');
+define('DB_NAME', 'kidz');
 
 /** MySQL database username */
-define('DB_USER', 'premweb_kidzblog');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Jx~R+65Txap!');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
